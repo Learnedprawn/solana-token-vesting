@@ -68,4 +68,3 @@ npm install
 ```shell
 npm run dev
 ```
-# solana-token-vesting
